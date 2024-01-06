@@ -2,7 +2,7 @@
 
 ### Description (Ongoing)
 
-This is a MERN stack Admin Dashboard.
+This is a MERN stack Admin Dashboard. (Fetches Management, General, Sales, Client data)
 
 Frontend -  Material UI, Material UI Data Grid, Nivo Charts, Redux Toolkit and Redux Toolkit Query.
 Backend - Node JS, Express Js, Mongoose, and MongoDB. 
